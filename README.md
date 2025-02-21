@@ -3,6 +3,7 @@
 
 - 👋 my name is Eduardo Cabral
 - 🌱 I’m currently studying Computer Science
+  ◦ Html, CSS, PYTHON and JAVA
 - 😄 Pronouns: He/Him
 - 📫 my email: eddyocn@outlook.com
 
