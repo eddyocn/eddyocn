@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying Computer Science...
   - Html, CSS, Python and Java
 - 😄 Pronouns: He/Him
-- 📫 my email: eddyocn@outlook.com
+- 📫 my email: eddyocn@outlook.com / eduardo.cn@sempreceub.com
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyocn&show_icons=true&theme=synthwave)
 
